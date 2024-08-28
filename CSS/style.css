@@ -6,6 +6,12 @@
    line-height: 200px;
    display:flex;
    justify-content: center;
+   cursor: pointer;
+}
+
+#gameContainer{
+    font-family:"Permanent Marker", cursive;
+    text-align: center;
 }
 
 #cellContainer{
